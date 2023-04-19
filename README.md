@@ -1,4 +1,4 @@
-# QR Code Generator
+# Text QR Code Generator
 
 A simple command-line QR code generator that takes user input and converts it into a QR code saved as a PNG image.
 
